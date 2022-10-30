@@ -5,6 +5,6 @@ Usage:
   cd MAC-Changer
   sudo python mac_changer -i wlan0/eth0 -m new MAC address.
 
-Make sure you have root privlages!
+Make sure you have root privileges!
 
 Arthur - Rishabh Tyagi.
