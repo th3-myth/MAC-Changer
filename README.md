@@ -7,4 +7,4 @@ Usage:
 
 Make sure you have root privileges!
 
-Arthur - Rishabh Tyagi.
+Author - myth
